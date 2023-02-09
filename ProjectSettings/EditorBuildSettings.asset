@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/introdeljuego.unity
+    guid: 8ef3696a6d8056740b70de62929f37fa
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/introduccion.unity
+    guid: 8e922a90f4e740848b16ffac3104513a
+  - enabled: 1
+    path: Assets/Scenes/que_es_la_informatica.unity
+    guid: 56ee221072431de469c0a76e6360054e
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 48e330ed621d07647aa4bf85ccab3c12
+  - enabled: 1
+    path: Assets/Scenes/volumen.unity
+    guid: 7fb31d3dcc3071642bbdcf77d00ce6a1
+  - enabled: 1
+    path: Assets/Scenes/seleccionar nivel.unity
+    guid: 8f85f0a7361661846a646f3fcda642af
+  - enabled: 1
+    path: Assets/Scenes/practicarcontenido.unity
+    guid: 98af292283cbc4c468ff92e275d2ceaf
+  - enabled: 1
+    path: Assets/Scenes/extras.unity
+    guid: 87350129af7f39b41a12f49732483167
+  - enabled: 1
+    path: Assets/Scenes/puntaje.unity
+    guid: 0df72a75649c96949bb38508b8eb7870
+  - enabled: 1
+    path: Assets/Scenes/libros.unity
+    guid: 57ad19c1ade86b74ea083c2cbdce0756
+  - enabled: 1
+    path: Assets/Scenes/videolenguajdedeprogramacion.unity
+    guid: 9dbd47e4ee902ec40b2b596ab5c8fb68
+  - enabled: 1
+    path: Assets/Scenes/examen2.unity
+    guid: 3a27d91c9906fa54fbd56a17c41f9478
+  - enabled: 1
+    path: Assets/Scenes/que es python.unity
+    guid: 92b7af9d226963740aa59fcf3f28d31d
+  - enabled: 1
+    path: Assets/Scenes/transcripcion de que es python.unity
+    guid: da686c6fef7dde04fbead80bcae346d8
+  - enabled: 1
+    path: Assets/Scenes/examen3 que es python.unity
+    guid: 1d70af53beb6d624a8a5550dfcdc2aa4
+  - enabled: 1
+    path: Assets/Scenes/tiposdedatos.unity
+    guid: 80935156c23619c4b89658ba4b63e851
+  - enabled: 1
+    path: Assets/Scenes/profundizacionentiposdedatos.unity
+    guid: 8bf2899159f67364aa8f670d02cdfab9
+  - enabled: 1
+    path: Assets/Scenes/pruebatipodedatos.unity
+    guid: dc1b675f1c086c649aa06f87a3bab873
+  - enabled: 1
+    path: Assets/Scenes/variables.unity
+    guid: 1d5592f5dd46e634092c957bc59420ad
+  - enabled: 1
+    path: Assets/Scenes/profundizarvariables.unity
+    guid: aba54771c6644d0459f424f245168590
+  - enabled: 1
+    path: Assets/Scenes/pruebadevariables.unity
+    guid: cb1bf8b8fe47f5744841dcbb9433d0f7
+  - enabled: 1
+    path: Assets/Scenes/librerias.unity
+    guid: 41958710f28b1594b9983fc90b8fdb6e
+  - enabled: 1
+    path: Assets/Scenes/comentarios.unity
+    guid: 247bd5fe111418c4d8e2c4461778d1f1
+  - enabled: 1
+    path: Assets/Scenes/profundizarcomentarios.unity
+    guid: 73a20476972fbb64e9cd0230e2354178
+  - enabled: 1
+    path: Assets/Scenes/proyectos.unity
+    guid: 04b64f2e108fe4e4684aa8ec10b8a24b
+  - enabled: 1
+    path: Assets/Scenes/proyectosimples.unity
+    guid: cdfedf9ba75d5c246adeaa4038c21b93
+  - enabled: 1
+    path: Assets/Scenes/snakevideo.unity
+    guid: bed26b28d9ae66843a67660669c78aef
+  - enabled: 1
+    path: Assets/Scenes/juego de snake en python.unity
+    guid: 3af42c6333b734d4282e178b2e8c3d95
+  - enabled: 1
+    path: Assets/Scenes/juegodelahorcadovideo.unity
+    guid: ef125a11a11ed814f8d8a791b0b2f877
+  - enabled: 1
+    path: Assets/Scenes/juegodelahorcado.unity
+    guid: 27cf54b472d770c4d99b76d13f997540
+  - enabled: 1
+    path: Assets/Scenes/videobasicocompuacion.unity
+    guid: 6c5037943982583458c72d189741d127
+  - enabled: 1
+    path: Assets/Scenes/basico.unity
+    guid: cf1bf7ca450e07645879f39e905355b1
+  - enabled: 1
+    path: Assets/Scenes/internet.unity
+    guid: 50f72f42154c7ff41975033c81817334
+  - enabled: 1
+    path: Assets/Scenes/prueba internet.unity
+    guid: 2385c261899eb1440a0415c5c88d0357
+  m_configObjects: {}
